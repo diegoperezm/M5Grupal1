@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -38,6 +38,21 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col">
+					<form>
+						<div class="form-group">
+							<label for="nombre">Nombre:</label> <input type="text"
+								class="form-control" id="nombre" placeholder="nombre"> <label
+								for="apellido">Apellido:</label> <input type="text"
+								class="form-control" id="apellido" placeholder="apellido">
+
+							<label for="capacitacion">Nombre Capacitación:</label> <input
+								type="text" class="form-control" id="capacitacion"
+								placeholder="capacitación"> <label for="correo">Correo:</label>
+							<input type="email" class="form-control" id="correo"
+								placeholder="nombre@correo.com">
+
+						</div>
+					</form>
 
 				</div>
 			</div>
