@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,8 +38,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col">
-					<h1>Empresa Prevención De Riesgos</h1>
-					<p>lorem lorem lorem lorem lorem lorem lorem lorem loremlorem</p>
+
 				</div>
 			</div>
 		</div>
@@ -48,3 +49,5 @@
 		crossorigin="anonymous"></script>
 </body>
 </html>
+
+
