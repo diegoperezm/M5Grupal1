@@ -41,12 +41,12 @@
 				     <h1>Formulario de contacto:</h1>
 				     
 					<div class="mb-3">
-						<label for="exampleFormControlInput1" class="form-label">Correo</label> <input type="email" class="form-control"
-							id="exampleFormControlInput1" placeholder="nombre@ejemplo.com">
+						<label for="correo" class="form-label">Correo</label> <input type="email" class="form-control"
+							id="correo" placeholder="nombre@ejemplo.com">
 					</div>
 					<div class="mb-3">
-						<label for="exampleFormControlTextarea1" class="form-label">Comentarios</label>
-						<textarea class="form-control" id="exampleFormControlTextarea1"
+						<label for="comentarios" class="form-label">Comentarios</label>
+						<textarea class="form-control" id="comentarios"
 							rows="3"></textarea>
 					</div>
 				</div>
